@@ -1,3 +1,4 @@
+# hi lena!
 dev.off(); # ?
 rm(list=ls()); #remove this command
 options(scipen=100, digits=3); #digit formatting
